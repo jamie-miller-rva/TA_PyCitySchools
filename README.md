@@ -1,6 +1,6 @@
 # TA_PyCitySchools
 
-Analysis of PyCity Schools¶
+Analysis of PyCity Schools
 Analysis was conducted on 15 schools, of type district and charter, ranging in size from 427 to 4,976 students. Detailed analysis was conducted of math, reading and overall scores by school spending per capita, school size and school type.
 
 ## Findings
